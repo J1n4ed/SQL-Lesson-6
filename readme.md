@@ -3,7 +3,7 @@
 
 Можно вызывать программу с аргументами командной строки:
 
-DBaseWork.exe -db <DB NAME> -u <USER NAME> -p <PWD> 
+<program name>.exe -db <DB NAME> -u <USER NAME> -p <PWD> 
 
 Порядок аргументов важен
 
